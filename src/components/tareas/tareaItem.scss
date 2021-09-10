@@ -1,0 +1,31 @@
+.container {
+}
+
+.container-card {
+  width: 100%;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  width: 300px;
+  box-shadow: 0px 0px 5px black;
+  p {
+    font-family: arial;
+    padding: 15px;
+  }
+
+  div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+
+    button {
+      background-color: rgb(106, 106, 163);
+      color: white;
+      padding: 12px 20px;
+      margin: 8px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+  }
+}
