@@ -69,9 +69,11 @@ const FormTarea = () => {
       // tarea nueva
       //   const newTarea = { ...tarea, id: Date.now() };
       agregarTarea(tarea);
+      obtenerTareas(tareas);
     } else {
       // actualizar tarea existente
       actualizarTarea(tarea);
+      obtenerTareas(tareas);
       limpiarTarea();
     }
 
