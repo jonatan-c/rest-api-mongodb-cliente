@@ -10,7 +10,7 @@
 - [x] Local.
 - [x] Heroku (Backend)
 - [ ] AWS.
-- [x] Netlify (Frontend)
+- [x] Netlify (Frontend): https://crud-mern-fullstack.netlify.app/
 - [x] None.
 
 
