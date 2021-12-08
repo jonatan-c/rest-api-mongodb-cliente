@@ -4,7 +4,7 @@
 
 ## Area
 - [x] Frontend
-- [x] Backend:  
+- [x] Backend: https://github.com/jonatan-c/rest-api-mongodb
 
 ## Deploy
 - [x] Local.
@@ -31,7 +31,7 @@ npm install
 ```
 - Run the project
 
-`npm run dev`
+`npm start`
 
 
 ## <a name="images"></a>Images:
